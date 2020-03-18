@@ -12,4 +12,4 @@ elif(exam_mark <= 59)and(exam_mark >= 50):
 elif(exam_mark <= 49)and(exam_mark >= 40):
     print(first_name, surname, "Fail")
 elif(exam_mark > 100):
-    print(first_name,surname,"please re-enter number")
+    print(first_name,surname,"please re-enter mark")
